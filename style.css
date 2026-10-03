@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+#count {
+    font-size: 15em;
+    margin: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#add {
+    background-color: #00b406;
+    color: white;
+}
+
+#sub {
+    background-color: #ff1100;
+    color: white;
+}
+
+#reset {
+    background-color: #1f1f1f;
+    color: white;
+}
+
+button:hover {
+    opacity: 0.8;
+}
